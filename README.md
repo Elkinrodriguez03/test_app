@@ -9,12 +9,12 @@ I create a React app to create de directory, files and dependencies of the appli
 
 To get the different functionalities of the application, I create a component for each of them. 
 
-*Index-component
+* Index-component
 
-*Add-component
+* Add-component
 
-*Edit-component
+* Edit-component
 
-*Header-component
+* Header-component
 
-*List-component
+* List-component
